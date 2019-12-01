@@ -1,0 +1,12 @@
+﻿<Window
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+                xmlns:View="clr-namespace:Qr_Code_Configurator.View" x:Class="Qr_Code_Configurator.MainWindow"
+                Title="MainWindow" Height="580" Width="770">
+    <Grid>
+
+        <!--<View:PageMain/>-->
+
+    </Grid>
+</Window>
